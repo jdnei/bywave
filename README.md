@@ -1,4 +1,4 @@
-# ByWave机场官方地址(2026年9月13日更新)
+# ByWave机场官方地址(2026年9月14日更新)
 bywave机场官网地址</br>
 官方地址：[u.bws.lol](https://u.bws.lol/register?aff=CTSHYNQJ)</br>
 
