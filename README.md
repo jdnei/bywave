@@ -1,6 +1,9 @@
+🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
+[Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
+
 # ByWave机场官方地址(2026年11月2日更新)
 bywave机场官网地址</br>
-官方地址：[u.bws.lol](https://u.bws.lol/register?aff=CTSHYNQJ)</br>
+官方地址：[u.bws.lol](https://to.iix.im/by01)</br>
 
 
 2026最新好用的机场推荐与节点分享：[https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)</br>
