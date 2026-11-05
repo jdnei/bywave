@@ -1,7 +1,5 @@
  🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 فارسی
-
-# آدرس رسمی VPN بای‌ویو (ByWave) - به‌روزرسانی ۲ نوامبر ۲۰۲۶
-
+# آدرس رسمی VPN بای‌ویو(به‌روزرسانی 4 نوامبر 2026)
 وب‌سایت رسمی VPN بای‌ویو (ByWave)<br>
 آدرس رسمی: [u.bws.lol](https://to.iix.im/by01)<br>
 
