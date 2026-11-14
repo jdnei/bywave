@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 English | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# ByWave VPN Official Website (Updated November 13, 2026)
+# ByWave VPN Official Website (Updated November 14, 2026)
 
 ByWave VPN Official Website<br>
 Official Website: [u.bws.lol](https://to.iix.im/by01)<br>
